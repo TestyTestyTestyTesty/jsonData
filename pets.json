@@ -1,0 +1,45 @@
+{
+  "pets": [
+    {
+      "name" : "Gary",
+      "species" : "Cat",
+      "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "birthYear" : 2016,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+    },
+    {
+      "name" : "Jake",
+      "species" : "Dog",
+      "birthYear" : 2008,
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "name" : "Lisa",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2012,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    },
+    {
+      "name" : "Ana",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2018,
+      "photo" : "https://testytestytestytesty.github.io/jsonData/ana.png"
+    },
+    {
+      "name" : "Kate",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2003,
+      "photo" : "https://testytestytestytesty.github.io/jsonData/kate.png"
+    },
+    {
+      "name" : "Moon Moon",
+      "species" : "Dog",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2000,
+      "photo" : "https://testytestytestytesty.github.io/jsonData/moon-moon.png"
+    }
+  ]
+}
